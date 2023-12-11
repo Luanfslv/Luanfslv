@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Luanfslv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Luanfslv/Luanfslv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning docker, mySQL, AWS, React-Native...
+  <br />
+  <h1>💻 Tech Stack:</h1>
+  <br />
+  
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vercel,bootstrap,nodejs,tailwind,next,react,express,ai,ps,postman,svg,figma)
