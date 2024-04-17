@@ -4,4 +4,4 @@
   <h1>💻 Tech Stack:</h1>
   <br />
   
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vercel,bootstrap,nodejs,tailwind,next,react,express,ai,ps,postman,svg,figma,postgresql,supabase,aws)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vercel,bootstrap,nodejs,tailwind,next,react,express,ai,ps,postman,svg,figma,postgresql,supabase,aws,s3,route53)
