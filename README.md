@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luanfslv
-- 🌱 I’m currently learning docker, mySQL, AWS, React-Native...
+- 🌱 I’m currently learning docker, mySQL, React-Native...
   <br />
   <h1>💻 Tech Stack:</h1>
   <br />
