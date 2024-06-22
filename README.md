@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Luanfslv
-- 🌱 I’m currently learning docker, mySQL, React-Native...
+<h1>- 👋 Hi, I’m Luan Fellipe</h1>
+
   <br />
-  <h1>💻 Tech Stack:</h1>
-  <br />
-  
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vercel,bootstrap,nodejs,tailwind,next,react,express,ai,ps,postman,svg,figma,postgresql,supabase,aws,git,yarn,regex)
+  <h2>About me:</h2>
+  Fullstack Dev.
+  <h2>💻 Tech Stack:</h2>
+    <ul>
+      <li>JavaScript</li>
+      <li>TypeScript</li>
+      <li>Vercel</li>
+      <li>Node.js</li>
+      <li>Next.js</li>
+      <li>PostgresSQL</li>
+      <li>AWS cloud</li>
+      <li>MongoDB</li>
+    </ul>
+
