@@ -1,6 +1,4 @@
 <h1>- 👋 Hi, I’m Luan Fellipe</h1>
-
-  <br />
   <h2>About me:</h2>
   Fullstack Dev.
   <h2>💻 Tech Stack:</h2>
@@ -14,4 +12,6 @@
       <li>AWS cloud</li>
       <li>MongoDB</li>
     </ul>
+    <h2>How to reach me:</h2>
+    <p>Luan@ajudavirtual.org</p>
 
