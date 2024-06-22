@@ -12,6 +12,6 @@
       <li>AWS cloud</li>
       <li>MongoDB</li>
     </ul>
-    <h2>How to reach me:</h2>
-    <p>Luan@ajudavirtual.org</p>
+    <h2>📧 How to reach me:</h2>
+    <p>Mail me: Luan@ajudavirtual.org</p>
 
