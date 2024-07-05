@@ -9,5 +9,5 @@
       <li>AWS cloud</li>
     </ul>
     <h2>📧 How to reach me:</h2>
-    <p>Mail me: Luan@ajudavirtual.org</p>
+    <p>Mail me: Luanfellipe.slv@gmail.com</p>
 
