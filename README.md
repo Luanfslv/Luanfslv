@@ -8,6 +8,8 @@
       <li>Next.js</li>
       <li>AWS cloud</li>
       <li>Prisma ORM</li>
+      <li>Vercel</li>
+      <li>PostgreSQL</li>
     </ul>
     <h2>📧 How to reach me:</h2>
     <p>Mail me: Luanfellipe.slv@gmail.com</p>
