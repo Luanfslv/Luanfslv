@@ -7,6 +7,7 @@
       <li>Node.js</li>
       <li>Next.js</li>
       <li>AWS cloud</li>
+      <li>Prisma ORM</li>
     </ul>
     <h2>📧 How to reach me:</h2>
     <p>Mail me: Luanfellipe.slv@gmail.com</p>
