@@ -12,5 +12,5 @@
       <li>PostgreSQL</li>
     </ul>
     <h2>📧 How to reach me:</h2>
-    <p>Mail me: Luanfellipe.slv@gmail.com</p>
+    <p>Mail me: Luanfellipe123@gmail.com</p>
 
